@@ -1,7 +1,7 @@
 4TP-E
 Jakub Budziński
 Igor Głowiński
-Temat:Skrzyneczki-nazwesiewymysli;
+Temat:DawajDalej;
 Klasy:
     inrerfejs_skrzynki.java;
     skrzynka.java;

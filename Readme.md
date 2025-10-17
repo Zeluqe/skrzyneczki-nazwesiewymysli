@@ -18,7 +18,7 @@ Klasy:
     ranking.java;
     main.java;
     (opcjonalnie)
-    manu.java;
+    menu.java;
     
   
     
